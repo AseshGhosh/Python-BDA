@@ -1,2 +1,2 @@
 Here I have uploaded some my PySpark assignments with the datasets.
-Topics Include Linear Reg, Logistics, KMeans, Random Forrest, Decision Tree, and Recommender System.
+Topics Include Linear Reg, Logistics Reg, KMeans, Random Forrest, Decision Tree, Recommender System etc
